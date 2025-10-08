@@ -1,0 +1,59 @@
+body{
+margin: 0px;
+font-family: monospace;
+background-color: rgb(62, 115, 152);
+}
+
+.header{
+background-color: green;
+padding: 10px;
+padding-left: 20px;
+border-radius: 20px;
+}
+
+.site-id{
+font-size: 40px;
+}
+
+.description{
+font-size: 20px;
+}
+
+.list{
+font-size: 20px;
+}
+
+.border-title{
+font-size: 30px;    
+}
+
+.paragraph{
+font-size: 15px;
+}
+
+.site-content{
+background-color: rgb(0, 202, 0);
+border-radius: 20px;
+padding: 10px;
+padding-left: 20px;
+}
+
+.footer{
+background-color: rgb(0, 0, 0);
+border-radius: 20px;
+padding: 10px;
+padding-left: 20px;
+font-size: 20px;
+color: white;
+}
+
+.address{
+font-size: 15px;  
+padding-bottom: 10px;  
+}
+
+.bottom-link{
+font-size: 30px;  
+padding: 10px;
+padding-left: 20px;
+}
